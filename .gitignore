@@ -1,0 +1,3 @@
+data/raw/
+data/processed/chunk_level_daily/
+*.csv
